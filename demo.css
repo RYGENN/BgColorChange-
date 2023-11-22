@@ -27,7 +27,6 @@ button{
     background-color: rgb(230, 182, 148);
     color:black;
     font-weight: 600;
-   
 }
 button:hover{
     background-color: chocolate;
