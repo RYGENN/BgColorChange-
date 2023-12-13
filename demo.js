@@ -11,10 +11,9 @@ function randomColorGenerator () {
     return randomColor
     
 }
-
 mainButton.addEventListener('click',() =>{
     randomColor=randomColorGenerator();
     body.style.backgroundColor=randomColor;
     tag.textContent=randomColor;  
-   // main button
+
 })  
