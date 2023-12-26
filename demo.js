@@ -16,4 +16,4 @@ mainButton.addEventListener('click',() =>{
     body.style.backgroundColor=randomColor;
     tag.textContent=randomColor;  
 
-})  // hetsing
+})  // hetsing bhgi
